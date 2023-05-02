@@ -1,0 +1,8 @@
+[package]
+name = "kivio-common"
+version = "0.0.1"
+edition = "2021"
+
+[dependencies]
+thiserror = "1.0"
+async-trait = "0.1.56"
